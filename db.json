@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "assetNumber": "RM001",
+    "manufacturer": "Nokia",
+    "model": "8",
+    "isAvailable": "1",
+  },
+  {
+    "id": 2,
+    "assetNumber": "RM025",
+    "manufacturer": "iPhone",
+    "model": "S5",
+    "isAvailable": "0",
+  },
+  {
+    "id": 3,
+    "assetNumber": "RM0101",
+    "manufacturer": "Motorolla",
+    "model": "Nexus 5",
+    "isAvailable": "1",
+  },
+  {
+    "id": 4,
+    "assetNumber": "RM0030",
+    "manufacturer": "Nokia",
+    "model": "8",
+    "isAvailable": "1",
+  }
+]
