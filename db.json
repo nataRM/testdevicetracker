@@ -4,24 +4,56 @@
 			"manufacturer": "Nokia",
 			"model": "8",
 			"isAvailable": "true"
+			"holder": ""	
 		},
 		{
 			"id": "RM025",
 			"manufacturer": "iPhone",
 			"model": "S5",
 			"isAvailable": "false"
+			"holder": "Natalja Pogrebova"	
 		},
 		{
 			"id": "RM0101",
 			"manufacturer": "Motorolla",
 			"model": "Nexus 5",
 			"isAvailable": "true"
+			"holder": ""	
 		},
 		{
 			"id": "RM0030",
 			"manufacturer": "Nokia",
 			"model": "8",
 			"isAvailable": "false"
+			"holder": "John Smith"	
+		},
+		{
+			"id": "RM0111",
+			"manufacturer": "Apple",
+			"model": "s5",
+			"isAvailable": "false"
+			"holder": "John Smith"	
+		},
+		{
+			"id": "RM0112",
+			"manufacturer": "Apple",
+			"model": "x10",
+			"isAvailable": "true"
+			"holder": ""	
+		},
+		{
+			"id": "RM0113",
+			"manufacturer": "Samsung",
+			"model": "s20",
+			"isAvailable": "false"
+			"holder": "Natalja Pogrebova"	
+		}
+		    		{
+			"id": "RM0114",
+			"manufacturer": "Samsung",
+			"model": "s2",
+			"isAvailable": "false"
+			"holder": ""	
 		}
 	]
 }
